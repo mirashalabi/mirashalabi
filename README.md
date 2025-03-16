@@ -2,7 +2,7 @@
 - 👀 I’m interested in mechanical design and coding.
 - 🌱 I’m currently learning different coding languages for cybersecurity purposes.
 - 💞️ I’m looking to collaborate on any projects.
-- 📫 Rach me through email.
+- 📫 Reach me through email.
 - ⚡ Fun fact: I'm both a mechanical engineer and a computer scientist.
 
 <!---
